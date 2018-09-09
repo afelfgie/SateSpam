@@ -275,7 +275,7 @@ else:
         restart_program()
 
 KeyboardInterrupt
-        print "Ctrl-C pressed."
+
 
 
 
